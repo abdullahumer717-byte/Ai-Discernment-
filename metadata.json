@@ -1,0 +1,6 @@
+{
+  "name": "AI Discernment Coach",
+  "description": "An interactive tool to practice Product, Process, and Performance Discernment by evaluating and refining AI-generated content in your domain of expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
